@@ -16,3 +16,4 @@ This repository contains a Random Forest model for detecting fraudulent credit c
 * **Task_9_Random_Forest.ipynb**: Code for training and evaluation.
 * **fraud_detection_model.pkl**: Saved model for future inference.
 * **Task_9_Report.pdf**: Detailed analysis.
+* **creditcard_sample.zip**: Dataset
